@@ -1,0 +1,49 @@
+textarea {
+
+    width: 500px;
+}
+
+.jumbotron{
+    
+    padding-top: 30px;
+    height: 180px;
+}
+
+.lead {
+
+    text-align: center;        
+}
+
+.display-3 {
+    text-align: center;
+    font-weight: bolder;
+}
+
+.container{
+
+    
+    padding: 20px;
+}
+
+.svBtn{
+
+    background-color: lightgreen;
+    margin-left: 10px;
+    border: 5px black;
+
+}
+
+p {
+
+    display: inline;
+}
+
+#outPut {
+
+    padding-top: 50px;
+}
+
+#currentDay {
+    color: lightseagreen;
+    text-align: right;
+}
